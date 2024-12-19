@@ -1,8 +1,16 @@
 import logo from "./logo.svg";
 import "./App.css";
 
-function App() {
-  return <div className="App"></div>;
+export default function App() {
+  return (
+    <div className="App">
+      <h1>Weather App</h1>
+      <footer>
+        <p>
+          Repository available on{" "}
+          <a href="https://github.com/MantaZvy/react-weather-app">GitHub</a>
+        </p>
+      </footer>
+    </div>
+  );
 }
-
-export default App;
