@@ -1,7 +1,7 @@
 import React from "react";
 import "./Weather.css";
 
-export default (App) => {
+export default function App() {
   return (
     <div className="App">
       <div className="row">
@@ -40,4 +40,4 @@ export default (App) => {
       </div>
     </div>
   );
-};
+}
