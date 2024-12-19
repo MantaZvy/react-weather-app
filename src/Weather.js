@@ -5,10 +5,10 @@ export default function App() {
   return (
     <div className="App">
       <div className="row">
-        <div className="col-8">
+        <div className="col-6">
           <h1>London</h1>
         </div>
-        <div className="col-4">
+        <div className="col-6">
           <form>
             <input
               type="search"
