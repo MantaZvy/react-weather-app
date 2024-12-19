@@ -8,7 +8,12 @@ export default function App() {
       <footer>
         <p>
           Repository available on{" "}
-          <a href="https://github.com/MantaZvy/react-weather-app">GitHub</a>
+          <a
+            href="https://github.com/MantaZvy/react-weather-app"
+            target="_blank"
+          >
+            GitHub
+          </a>
         </p>
       </footer>
     </div>
