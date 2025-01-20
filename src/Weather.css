@@ -1,0 +1,9 @@
+.Weather {
+  border: 1px black solid;
+}
+.Weather .form-field {
+  width: 100%;
+  text-align: center;
+  margin-left: 24px;
+  height: 38px;
+}
